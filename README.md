@@ -1,3 +1,5 @@
-# CodoACodo-TP1
-TP Integrador Front, Programa Codo a Codo 2023
+# CodoACodo
+TP Integrador Front y Javascript, Programa Codo a Codo 2023
+
+
 
